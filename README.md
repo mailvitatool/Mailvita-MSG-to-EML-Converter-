@@ -1,4 +1,4 @@
-# Mailvita-MSG-to-EML-Converter-
+# Mailvita-MSG-to-EML-Converter
 Mailvita MSG to EML Converter for Mac is an easy-to-use application that helps users export Outlook MSG files to EML format without any data loss. The software supports MSG files created by Microsoft Outlook 2003, 2007, 2010, 2013, 2016 and later versions. It keeps all email details including attachments, formatting and other message properties unchanged during the conversion process. This application runs smoothly on Mac OS X 10.6, 10.7, 10.8, 10.9, 10.10 and 10.11. This tool offers a safe conversion process and helps users access Outlook emails on Mac without affecting the original email data.
 
 Features
